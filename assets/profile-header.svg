@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Nour Eldin Khater</title>
+  <desc id="desc">Data analysis and workflow automation</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071019"/>
+      <stop offset="0.62" stop-color="#0a1c28"/>
+      <stop offset="1" stop-color="#092637"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#2cd7ef" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#2cd7ef" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="280" rx="18" fill="url(#background)"/>
+  <circle cx="1030" cy="145" r="220" fill="url(#glow)"/>
+  <circle cx="1030" cy="145" r="178" fill="none" stroke="#3ad7ef" stroke-opacity=".23"/>
+  <circle cx="1030" cy="145" r="129" fill="none" stroke="#3ad7ef" stroke-opacity=".28"/>
+  <circle cx="1030" cy="145" r="77" fill="none" stroke="#3ad7ef" stroke-opacity=".4"/>
+  <path d="M914 145h-52m336 0h-52M1030 29v39m0 154v39" stroke="#55dff3" stroke-opacity=".52" stroke-width="2"/>
+  <circle cx="1030" cy="145" r="12" fill="#44d9ee"/>
+  <circle cx="862" cy="145" r="5" fill="#44d9ee"/>
+  <circle cx="1146" cy="145" r="5" fill="#44d9ee"/>
+  <path d="M62 46h50" stroke="#44d9ee" stroke-width="4" stroke-linecap="round"/>
+  <text x="62" y="110" fill="#f0f7fa" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="700" letter-spacing="-1.5">Nour Eldin Khater</text>
+  <text x="64" y="155" fill="#85e3f1" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400">Data analysis + workflow automation</text>
+  <text x="64" y="218" fill="#a8bdc9" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2.1">CLEAR ANSWERS · LESS BUSYWORK</text>
+</svg>
