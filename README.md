@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://nour2303.github.io/">Portfolio</a> ·
   <a href="https://nour2303.github.io/Nour-Khater-CV.pdf">CV</a> ·
-  <a href="https://www.linkedin.com/in/noureldin-essameldin-04339b347">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/nour-eldin-khater">LinkedIn</a> ·
   <a href="mailto:nourkhater39@gmail.com">Email</a>
 </p>
 
