@@ -9,15 +9,15 @@
   <a href="mailto:nourkhater39@gmail.com">Email</a>
 </p>
 
-I'm Nour, a Management Information Systems graduate based in Egypt. I use data to answer practical business questions and build workflows that take repetitive tasks off people's hands. At the Information and Decision Support Center (IDSC), I worked as a Data Analyst Intern and Policy Lab Trainee; my CV records a Policy Lab certificate for distinguished performance and analytical contribution. I'm open to data analysis and automation roles, including remote work, and freelance projects.
+I'm Nour, a Management Information Systems graduate based in Egypt (Military Status: Exempted). I turn data into clear reports for stakeholders and build AI workflows that eliminate repetitive manual tasks. At the Information and Decision Support Center (IDSC), Cabinet of Ministers of Egypt, I worked as a Data Analyst Intern & Policy Lab Trainee and received a Policy Lab certificate for distinguished performance and analytical contribution.
 
 ### Selected work
 
-- **[Sales Analysis](https://github.com/nour2303/sales-profitability-analysis)** — Checked the sales data before studying product margins and the effect of discounts in Excel.
-- **[E-commerce Sales Analysis](https://github.com/nour2303/ecommerce-sales-analysis)** — Used SQL for cleaning and Power BI to investigate falling revenue, cancelled orders, and areas with growth.
-- **[Firm Assistant](https://github.com/nour2303/firm-assistant)** — Personal n8n assistant for document and read-only database questions, with evaluation tests for request handling.
-- **[Nile Auto AI Voice Receptionist](https://github.com/nour2303/nile-auto-ai-voice-receptionist)** — Controlled voice-booking demo for a fictional Cairo car-care business, with calendar checks, records, and SMS confirmation.
-- **[Research & Report Automation](https://github.com/nour2303/research-automation)** — Personal n8n workflow that gathers web sources and turns them into a reviewable PDF report.
-- **[Pandas quality checks](https://github.com/nour2303/amazon-sales-pandas)** — A small practice notebook for parsing and profiling a sample of the e-commerce data.
+- **[Sales Analysis](https://github.com/nour2303/sales-profitability-analysis)** — Audited 113,000 sales records, flagged fabricated duplicate records, and built an Excel dashboard analyzing product margins and discount impact.
+- **[E-commerce Sales Analysis](https://github.com/nour2303/ecommerce-sales-analysis)** — Cleaned 131,000+ sales records in MySQL and built a two-page Power BI dashboard analyzing revenue concentration, cancellations, and category growth.
+- **[Firm Assistant](https://github.com/nour2303/firm-assistant)** — Three-workflow n8n RAG and read-only SQL assistant with semantic caching, request logging, guardrails, and automated evaluations.
+- **[Nile Auto AI Voice Receptionist](https://github.com/nour2303/nile-auto-ai-voice-receptionist)** — Bilingual (English & Egyptian Arabic) AI voice receptionist using ElevenLabs, n8n, Google Calendar, Google Sheets, and Vonage SMS confirmations.
+- **[Research & Report Automation](https://github.com/nour2303/research-automation)** — Four-workflow multi-agent n8n system that gathers web sources, verifies quotations against source pages, and generates cited PDF reports with comparison charts.
+- **[E-commerce Data Quality Checks (Pandas)](https://github.com/nour2303/amazon-sales-pandas)** — Python & pandas workflow for schema standardization, date/amount parsing, deduplication, and data quality profiling.
 
-I work with **SQL, Excel, Power BI, Python, n8n, APIs, and PostgreSQL**. The portfolio has the full stories, visuals, and a way to get in touch.
+**Core Stack:** SQL / MySQL · Power BI & DAX · Excel & Power Query · Python / pandas · n8n · RAG & Multi-Agent Workflows · Supabase / PostgreSQL · REST APIs
